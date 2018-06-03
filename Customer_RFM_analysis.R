@@ -38,7 +38,6 @@ install.packages("rmarkdown")
 
 library(rmarkdown)
 
-
 #Data
 
 str(data)
